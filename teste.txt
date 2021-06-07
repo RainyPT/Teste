@@ -11,3 +11,5 @@ WeaponList+0x388=Magazines Primary
 WeaponList+0x380=Magazines Secondary
 WeaponList+0x3F8=Ammo Secondary
 WeaponList+0x400=Ammo Primary
+
+shh, this is a secret
