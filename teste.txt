@@ -5,9 +5,11 @@ Each Entity is 2F8 apart
 xyz=0x18,0x1C,0x20f
 xyzHead=0x10C,0x110,0x114
 
-3443800-343cb50=6CB0
-EntityList+6CB0=WeaponList?
-WeaponList+0x388=Magazines Primary
+3443700-343cb50=6CB0
+EntityList+6CC0=WeaponList?
+WeaponList+0xD33DB33F=Magazines Primary
 WeaponList+0x380=Magazines Secondary
 WeaponList+0x3F8=Ammo Secondary
 WeaponList+0x400=Ammo Primary
+
+shh, this is a secret
